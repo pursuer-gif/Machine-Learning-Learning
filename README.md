@@ -10,13 +10,10 @@ My learning journey of Machine Learning, including notes, code implementations a
   - LLM learning notes
 
 - [Code](./Code)
-  - NumPy
-  - Scikit-learn
-  - PyTorch
+  
 
 - [Projects](./Projects)
-  - Machine learning projects
-  - Experiments
+  
 
 
 ## 🛠️ Learning Roadmap
